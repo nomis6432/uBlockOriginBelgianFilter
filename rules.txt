@@ -1,3 +1,8 @@
+uBlock Origin filter for Belgium
+# License: GPLv3
+# Contact: simon.tas.st@gmail.com
+# github: https://github.com/nomis6432/uBlockOriginBelgianFilter
+
 # standaard & niewsblad GDPR box
 www.standaard.be##.gdpr-dialog-wrapper
 www.standaard.be##.gdpr-dialog-backdrop

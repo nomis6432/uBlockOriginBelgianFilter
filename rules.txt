@@ -1,0 +1,24 @@
+# standaard & niewsblad GDPR box
+www.standaard.be##.gdpr-dialog-wrapper
+www.standaard.be##.gdpr-dialog-backdrop
+www.standaard.be#$#html.is-gdpr-dialog-active{overflow-y: visible !important;}
+
+www.standaard.be##.gdpr-notification
+www.standaard.be##.body-wrapper:style(padding-top: 0px !important;)
+www.standaard.be##html:style(padding-top: 5% !important;)
+www.standaard.be##.site-supnav-sticky:style(top: 0px !important;)
+www.standaard.be##.site-header-sticky:style(top: 2.5% !important;)
+
+www.nieuwsblad.be##.gdpr-dialog-wrapper
+www.nieuwsblad.be##.gdpr-dialog-backdrop
+www.nieuwsblad.be#$#html.is-gdpr-dialog-active{overflow-y: visible !important;}
+
+www.nieuwsblad.be##.gdpr-notification
+www.nieuwsblad.be##.body-wrapper:style(padding-top: 0px !important;)
+www.nieuwsblad.be##html:style(padding-top: 5% !important;)
+www.nieuwsblad.be##.site-supnav-sticky:style(top: 0px !important;)
+www.nieuwsblad.be##.site-header-sticky:style(top: 2.5% !important;)
+
+
+# remove ads 2dehands.be
+www.2dehands.be##.listed-adv-item:has(:scope > div > div[class="listed-item-placing"] > div[class="listed-item-location has-website"])
